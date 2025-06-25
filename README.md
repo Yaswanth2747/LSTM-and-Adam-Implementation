@@ -1,6 +1,6 @@
 # LSTM-Based Neural Network for Sequence Prediction
 
-> An end-to-end implementation of an LSTM network for sentiment analysis and a custom-coded Adam optimizer – with an illustrative breakdown of the update steps.
+> An end-to-end implementation of an LSTM network for sentiment analysis and a custom-coded Adam optimizer, with an illustrative breakdown of the update steps.
 
 This repository contains our final course project submission for **CS419M – Machine Learning for CS**, offered in **Autumn 2024** at the **Department of Computer Science and Engineering, IIT Bombay**, under the guidance of **Prof. Abir De**.
 
