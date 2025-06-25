@@ -40,10 +40,11 @@ This project explores the use of **Long Short-Term Memory (LSTM)** networks in s
 
 ## 👥 Team Members
 
+- **Yaswanth Ram Kumar**
 - **Abhinav Reddy**  
 - **Manidheep Reddy**  
-- **Prathmesh Baral**  
-- **Yaswanth Ram Kumar**
+- **Prathmesh Baral**
+
 
 **Instructor:** Prof. Abir De
 
